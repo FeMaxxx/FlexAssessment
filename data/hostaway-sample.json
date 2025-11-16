@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1001,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Shane and his partner were great guests. Left the apartment spotless.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 9 },
+      { "category": "respect_house_rules", "rating": 10 }
+    ],
+    "submittedAt": "2021-03-12 14:22:33",
+    "guestName": "Shane Finkelstein",
+    "listingName": "2B N1 A - 29 Shoreditch Heights"
+  },
+  {
+    "id": 1002,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "Great location and very responsive host.",
+    "reviewCategory": [
+      { "category": "communication", "rating": 10 },
+      { "category": "accuracy", "rating": 9 },
+      { "category": "value", "rating": 8 }
+    ],
+    "submittedAt": "2022-07-19 10:11:02",
+    "guestName": "Laura Smith",
+    "listingName": "Penthouse - Canary Wharf View"
+  },
+  {
+    "id": 1003,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Very friendly couple. Would happily host again.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 10 }
+    ],
+    "submittedAt": "2020-11-05 09:32:55",
+    "guestName": "Jacob & Emily",
+    "listingName": "Studio - Camden Lock"
+  },
+  {
+    "id": 1004,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8,
+    "publicReview": "Comfortable apartment but a bit noisy outside.",
+    "reviewCategory": [
+      { "category": "accuracy", "rating": 8 },
+      { "category": "value", "rating": 7 }
+    ],
+    "submittedAt": "2021-09-14 18:41:17",
+    "guestName": "Patrick Johnson",
+    "listingName": "1BR - City Road Modern Flat"
+  },
+  {
+    "id": 1005,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Respectful guest. Followed all house rules.",
+    "reviewCategory": [{ "category": "respect_house_rules", "rating": 10 }],
+    "submittedAt": "2023-01-10 22:22:11",
+    "guestName": "Ana Rodriguez",
+    "listingName": "Chelsea Garden Suite"
+  },
+  {
+    "id": 1006,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 10,
+    "publicReview": "Everything was perfect. Amazing host!",
+    "reviewCategory": [
+      { "category": "communication", "rating": 10 },
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "check_in", "rating": 10 }
+    ],
+    "submittedAt": "2019-12-28 16:09:08",
+    "guestName": "Sarah Williams",
+    "listingName": "2B N1 A - 29 Shoreditch Heights"
+  },
+  {
+    "id": 1007,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Quiet and respectful. Recommended.",
+    "reviewCategory": [{ "category": "communication", "rating": 9 }],
+    "submittedAt": "2022-03-03 11:55:49",
+    "guestName": "Hiro Tanaka",
+    "listingName": "Soho Boutique Loft"
+  },
+  {
+    "id": 1008,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 6,
+    "publicReview": "Good apartment but not very clean.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 5 },
+      { "category": "accuracy", "rating": 7 }
+    ],
+    "submittedAt": "2020-04-20 08:47:15",
+    "guestName": "Daniel Carter",
+    "listingName": "Studio - Camden Lock"
+  },
+  {
+    "id": 1009,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Left the place tidy. Thank you!",
+    "reviewCategory": [{ "category": "cleanliness", "rating": 9 }],
+    "submittedAt": "2021-06-09 21:34:27",
+    "guestName": "Emma Wilson",
+    "listingName": "Penthouse - Canary Wharf View"
+  },
+  {
+    "id": 1010,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 7,
+    "publicReview": "Good stay overall.",
+    "reviewCategory": [{ "category": "value", "rating": 7 }],
+    "submittedAt": "2023-05-01 12:12:12",
+    "guestName": "George Hamilton",
+    "listingName": "Chelsea Garden Suite"
+  },
+  {
+    "id": 1011,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Guest communicated well and left the flat in good condition.",
+    "reviewCategory": [{ "category": "communication", "rating": 10 }],
+    "submittedAt": "2022-10-18 19:11:03",
+    "guestName": "Marta Pérez",
+    "listingName": "1BR - City Road Modern Flat"
+  },
+  {
+    "id": 1012,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9,
+    "publicReview": "Host was friendly and helpful. Would book again.",
+    "reviewCategory": [{ "category": "communication", "rating": 10 }],
+    "submittedAt": "2020-01-15 15:30:01",
+    "guestName": "Igor Kozlov",
+    "listingName": "Soho Boutique Loft"
+  },
+  {
+    "id": 1013,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Very polite guest. Highly recommended.",
+    "reviewCategory": [
+      { "category": "respect_house_rules", "rating": 10 },
+      { "category": "cleanliness", "rating": 9 }
+    ],
+    "submittedAt": "2023-06-22 13:50:10",
+    "guestName": "Daria Novak",
+    "listingName": "Penthouse - Canary Wharf View"
+  },
+  {
+    "id": 1014,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "The location was good but the apartment lacked some essentials.",
+    "reviewCategory": [
+      { "category": "accuracy", "rating": 6 },
+      { "category": "value", "rating": 5 }
+    ],
+    "submittedAt": "2021-02-02 07:21:11",
+    "guestName": "Liam Brown",
+    "listingName": "Studio - Camden Lock"
+  },
+  {
+    "id": 1015,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Easy check-in, great communication.",
+    "reviewCategory": [{ "category": "communication", "rating": 10 }],
+    "submittedAt": "2019-09-12 22:12:44",
+    "guestName": "Olivia Martin",
+    "listingName": "Chelsea Garden Suite"
+  },
+  {
+    "id": 1016,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 10,
+    "publicReview": "One of my best stays ever. Perfect host.",
+    "reviewCategory": [
+      { "category": "communication", "rating": 10 },
+      { "category": "value", "rating": 10 },
+      { "category": "cleanliness", "rating": 10 }
+    ],
+    "submittedAt": "2022-12-30 09:14:56",
+    "guestName": "Haruto Yamamoto",
+    "listingName": "1BR - City Road Modern Flat"
+  },
+  {
+    "id": 1017,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Great experience hosting them.",
+    "reviewCategory": [{ "category": "cleanliness", "rating": 10 }],
+    "submittedAt": "2020-10-03 18:25:33",
+    "guestName": "Nina Soto",
+    "listingName": "Soho Boutique Loft"
+  },
+  {
+    "id": 1018,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8,
+    "publicReview": "Nice apartment, friendly host.",
+    "reviewCategory": [{ "category": "communication", "rating": 9 }],
+    "submittedAt": "2023-03-18 20:44:22",
+    "guestName": "Alex Becker",
+    "listingName": "Penthouse - Canary Wharf View"
+  },
+  {
+    "id": 1019,
+    "type": "host-to-guest",
+    "status": "published",
+    "rating": null,
+    "publicReview": "Left everything clean. Thank you!",
+    "reviewCategory": [{ "category": "cleanliness", "rating": 10 }],
+    "submittedAt": "2021-11-23 16:51:19",
+    "guestName": "Sophie Turner",
+    "listingName": "1BR - City Road Modern Flat"
+  },
+  {
+    "id": 1020,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 7,
+    "publicReview": "Overall good, a few minor issues.",
+    "reviewCategory": [
+      { "category": "value", "rating": 7 },
+      { "category": "accuracy", "rating": 7 }
+    ],
+    "submittedAt": "2019-05-29 11:19:45",
+    "guestName": "Marco Gentile",
+    "listingName": "Chelsea Garden Suite"
+  }
+]
